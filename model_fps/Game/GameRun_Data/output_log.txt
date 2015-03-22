@@ -1,0 +1,72 @@
+Initialize engine version: 4.5.0f6 (fd4616464986)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 4600 (ID=0x416)
+    Vendor:   Intel
+    VRAM:     0 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: F:\WORK SPACE\UNITY\BOMB\Game\GameRun_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading F:\WORK SPACE\UNITY\BOMB\Game\GameRun_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: F:\WORK SPACE\UNITY\BOMB\Game\GameRun_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading F:\WORK SPACE\UNITY\BOMB\Game\GameRun_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: F:\WORK SPACE\UNITY\BOMB\Game\GameRun_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading F:\WORK SPACE\UNITY\BOMB\Game\GameRun_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: F:\WORK SPACE\UNITY\BOMB\Game\GameRun_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading F:\WORK SPACE\UNITY\BOMB\Game\GameRun_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+- Completed reload, in  0.184 seconds
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found.
+<RI> Input initialized.
+WARNING: Shader Unsupported: 'Hidden/TerrainEngine/Details/BillboardWavingDoublePass' - Pass '' shader state not supported
+UnloadTime: 0.285330 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 208.
+Total: 1.038272 ms (FindLiveObjects: 0.020937 ms CreateObjectMapping: 0.008621 ms MarkObjects: 0.115363 ms  DeleteObjects: 0.273013 ms)
+
+Platform assembly: F:\WORK SPACE\UNITY\BOMB\Game\GameRun_Data\Managed\Boo.Lang.dll (this message is harmless)
+Platform assembly: F:\WORK SPACE\UNITY\BOMB\Game\GameRun_Data\Managed\UnityScript.Lang.dll (this message is harmless)
+WARNING: Shader Unsupported: 'Hidden/TerrainEngine/Details/BillboardWavingDoublePass' - Pass '' shader state not supported
+UnloadTime: 0.750479 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 210.
+Total: 0.789892 ms (FindLiveObjects: 0.009853 ms CreateObjectMapping: 0.010674 ms MarkObjects: 0.135480 ms  DeleteObjects: 0.137122 ms)
+
+WARNING: Shader Unsupported: 'Hidden/TerrainEngine/Details/BillboardWavingDoublePass' - Pass '' shader state not supported
+UnloadTime: 1.537087 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 210.
+Total: 3.538913 ms (FindLiveObjects: 0.039001 ms CreateObjectMapping: 0.043107 ms MarkObjects: 0.523447 ms  DeleteObjects: 0.511541 ms)
+
+WARNING: Shader Unsupported: 'Hidden/TerrainEngine/Details/BillboardWavingDoublePass' - Pass '' shader state not supported
+UnloadTime: 1.003786 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 206.
+Total: 2.341758 ms (FindLiveObjects: 0.027506 ms CreateObjectMapping: 0.026685 ms MarkObjects: 0.329669 ms  DeleteObjects: 0.326384 ms)
+
+WARNING: Shader Unsupported: 'Hidden/TerrainEngine/Details/BillboardWavingDoublePass' - Pass '' shader state not supported
+UnloadTime: 1.195512 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 210.
+Total: 3.382905 ms (FindLiveObjects: 0.038591 ms CreateObjectMapping: 0.034485 ms MarkObjects: 0.493887 ms  DeleteObjects: 0.531247 ms)
+
+WARNING: Shader Unsupported: 'Hidden/TerrainEngine/Details/BillboardWavingDoublePass' - Pass '' shader state not supported
+UnloadTime: 0.852705 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 210.
+Total: 2.040006 ms (FindLiveObjects: 0.023401 ms CreateObjectMapping: 0.019706 ms MarkObjects: 0.335827 ms  DeleteObjects: 0.268908 ms)
+
+WARNING: Shader Unsupported: 'Hidden/TerrainEngine/Details/BillboardWavingDoublePass' - Pass '' shader state not supported
+UnloadTime: 1.581015 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 38 unused Assets to reduce memory usage. Loaded Objects now: 128.
+Total: 5.554287 ms (FindLiveObjects: 0.025453 ms CreateObjectMapping: 0.024222 ms MarkObjects: 0.355122 ms  DeleteObjects: 3.121387 ms)
+
